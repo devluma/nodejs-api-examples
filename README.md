@@ -1,2 +1,2 @@
-# nodejs-examples
+# nodejs-api-examples
 Rocketseat course examples
